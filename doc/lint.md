@@ -4,8 +4,6 @@
 
 ## 1. 总体流程
 
-这个流程基本就是一个标准的编译前端的工作流程。
-以一段代码为例，看看上面的流程：
 ![DDD_layer](https://github.com/Frioa/ProjectIntroduction/blob/master/doc/image/lint-1.png)
 
 这个流程基本就是一个标准的编译前端的工作流程。
